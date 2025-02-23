@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Austin Lynn Huffman
 
 # import hextra as module
 module:
@@ -18,9 +18,12 @@ markup:
 
 menu:
   main:
+    - name: Blog
+      pageRef: /blog
+      weight: 1
     - name: Docs
       pageRef: /docs
-      weight: 1
+      weight: 2
     - name: About
       pageRef: /about
       weight: 2
@@ -52,5 +55,4 @@ params:
     displayPoweredBy: true
 
   editURL:
-    enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    enable: false
