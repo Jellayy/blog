@@ -42,38 +42,26 @@ Currently, I’m simply using one of the ports on the pfSense box for my WAN int
 
 I never actually ended up finishing this writeup back in 2020, but I recently came across more photos of my first College Dorm Homelab and I thought I would document how it evolved here.
 
-Shortly after first setting up my pfSense router and hooking it up *only* to my gaming PC.
-![image](pfsense-setup.jpg)
+![image](pfsense-setup.jpg "Shortly after first setting up my pfSense router and hooking it up *only* to my gaming PC.")
 
-Then I got in the ebay parts for my first Proxmox server, that I threw into come massive consumer PC case.
-![image](proxmox-build.jpg)
+![image](proxmox-build.jpg "Then I got in the ebay parts for my first Proxmox server, that I threw into come massive consumer PC case.")
 
-Getting your first enterprise hardware is such a fun moment, I thought it was *so cool* how many cores I had.
-![image](cores.jpg)
+![image](cores.jpg "Getting your first enterprise hardware is such a fun moment, I thought it was *so cool* how many cores I had.")
 
-Then I stuffed it all into the corner of my dorm. That small-form-factor gaming PC build wasn't making a whole bunch of sense at this point.
-![image](first-homelab.jpg)
+![image](first-homelab.jpg "Then I stuffed it all into the corner of my dorm. That small-form-factor gaming PC build wasn't making a whole bunch of sense at this point.")
 
-Homelabbers first VMs:
-![image](first-vm.png)
+![image](first-vm.png "Homelabbers first VMs")
 
-Naturally, the first thing I did was spin up an OpenVPN Cloud tunnel so that I could watch Plex on my laptop during my campus job.
-![image](plex.png)
+![image](plex.png "Naturally, the first thing I did was spin up an OpenVPN Cloud tunnel so that I could watch Plex on my laptop during my campus job.")
 
-Then I got my first rackmount case and moved everything from my Proxmox server over. Notice how the back doesn't close all the way :)
-![image](first-rackmount-case.jpg)
+![image](first-rackmount-case.jpg "Then I got my first rackmount case and moved everything from my Proxmox server over. Notice how the back doesn't close all the way :)")
 
-It definitely wasn't the nicest thing I've ever built.
-![image](rack-case-inside.jpg)
+![image](rack-case-inside.jpg "It definitely wasn't the nicest thing I've ever built.")
 
-Soon I came up with the amazing idea that the power in my dorm was free, so I could start bitcoin mining on a Windows VM.
-![image](gpu-time.jpg)
+![image](gpu-time.jpg "Soon I came up with the amazing idea that the power in my dorm was free, so I could start bitcoin mining on a Windows VM.")
 
-That poor usb-powered ethernet switch was starting to bottleneck me, so I finally got the long needed networking upgrade the lab needed. Now I had my own Wi-Fi network I could connect my phone and laptop to so I could access my lab from those devices without a VPN. I actually still use this switch to this day, mounted to the ceiling of my garage to power my IP Cameras.
-![image](networking.jpg)
+![image](networking.jpg "That poor usb-powered ethernet switch was starting to bottleneck me, so I finally got the long needed networking upgrade the lab needed. Now I had my own Wi-Fi network I could connect my phone and laptop to so I could access my lab from those devices without a VPN. I actually still use this switch to this day, mounted to the ceiling of my garage to power my IP Cameras.")
 
-Check out that old Unifi UI
-![image](old-unifi-ui.png)
+![image](old-unifi-ui.png "Check out that old Unifi UI")
 
-Then, it was time for another server, and boy did she have drive bays
-![image](storage-for-days.jpg)
+![image](storage-for-days.jpg "Then, it was time for another server, and boy did she have drive bays")
