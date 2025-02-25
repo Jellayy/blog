@@ -16,6 +16,16 @@ markup:
   highlight:
     noClasses: false
 
+outputs:
+  home:
+    - HTML
+    - RSS
+  section:
+    - HTML
+    - RSS
+  page:
+    - HTML
+
 menu:
   main:
     - name: Blog
@@ -57,3 +67,8 @@ params:
 
   page:
     width: wide
+
+  rss:
+    includeContent: false
+    limit: 10 # Number of posts to include in the feed
+

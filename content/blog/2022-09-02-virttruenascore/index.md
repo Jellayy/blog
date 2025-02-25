@@ -1,5 +1,6 @@
 ---
 title: Virtualizing TrueNAS in Proxmox
+description: My comprehensive guide on virtualizing TrueNAS in Proxmox based on my experience running it for two years. After impulse-buying 64TB of SAS drives (as one does), I documented the entire setup process from VM creation to storage configuration, including all those little gotchas like PCIe passthrough, IOMMU settings, and proper disk identification that took me forever to figure out originally.
 date: 2022-09-02
 authors:
   - name: Austin Lynn Huffman

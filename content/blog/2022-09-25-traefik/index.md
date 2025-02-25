@@ -1,5 +1,6 @@
 ---
 title: Traefik Reverse Proxy in Docker with TLS Certs
+description: This comprehensive guide provides a step-by-step walkthrough for implementing Traefik as a reverse proxy with TLS certification in Docker, incorporating Authelia for secure authentication. From Cloudflare DNS configuration to proper certificate issuance and service integration, the tutorial covers all essential components required for deploying a secure, locally-hosted application environment with proper HTTPS implementation.
 date: 2022-09-25
 authors:
   - name: Austin Lynn Huffman

@@ -1,5 +1,6 @@
 ---
 title: Homelab V3 - Low Power Edition
+description: In my latest homelab iteration, I've shifted from raw power to efficiency by replacing power-hungry enterprise servers with compact mini-PCs. This major overhaul reduced power consumption by over 50%—from 386W down to just 180W—while actually improving performance through newer architecture. The new setup features HP Elitedesks with efficient laptop CPUs, a ProLiant Microserver for storage, and my old R720 repurposed as an offsite backup solution in a datacenter colocation.
 date: 2024-10-15
 authors:
   - name: Austin Lynn Huffman

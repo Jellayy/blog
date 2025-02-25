@@ -1,5 +1,6 @@
 ---
 title: Proxmox Setup Tips
+description: Helpful commands and settings I use when setting up Proxmox
 date: 2022-02-15
 authors:
   - name: Austin Lynn Huffman

@@ -1,5 +1,6 @@
 ---
 title: pfSense, The Humble Beginning (Homelab V1)
+description: I finally documented the journey of my first homelab setup, starting with a humble pfSense box in my college dorm. From solving the single ethernet jack problem to eventually building out a full rack with Proxmox, mining rigs, and proper networking—it's wild to see how quickly things escalated from that tiny USB-powered switch.
 date: 2020-08-30
 authors:
   - name: Austin Lynn Huffman
