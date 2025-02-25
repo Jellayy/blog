@@ -61,15 +61,16 @@ Deploying Traefik isn’t completely plug-and-play and needs some files to get s
 
 Wherever you wish to place your Traefik configuration files, create the following file structure. You’ll need to create all files listed, traefik does not create them itself and will yell at you if you don’t. Create `acme.json` as an empty file for traefik to fill, we will configure `traefik.yml` in the next step.
 
-```
-traefik
-│   traefik.yml   
-│
-└───acme
-│   │   acme.json
-│   
-└───dynamic
-```
+{{< filetree/container >}}
+  {{< filetree/folder name="traefik" >}}
+    {{< filetree/file name="traefik.yml" >}}
+    {{< filetree/folder name="acme" >}}
+      {{< filetree/file name="acme.json" >}}
+    {{< /filetree/folder >}}
+    {{< filetree/folder name="dynamic" >}}
+    {{< /filetree/folder >}}
+  {{< /filetree/folder >}}
+{{< /filetree/container >}}
 
 #### traefik.yml
 
