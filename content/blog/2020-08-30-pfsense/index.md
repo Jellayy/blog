@@ -1,6 +1,13 @@
 ---
 title: pfSense, The Humble Beginning (Homelab V1)
 date: 2020-08-30
+authors:
+  - name: Austin Lynn Huffman
+    link: https://github.com/Jellayy
+    image: https://github.com/Jellayy.png
+tags:
+- homelab
+- homelab updates
 ---
 
 With my first virtulization server project in the works, there is still one major hurdle I have to get past before I can really get to work on that. My college dorm internet. This thread will be all about my findings and experience with pfSense, the first addition to my first homelab.
