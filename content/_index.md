@@ -11,12 +11,12 @@ Hey! I'm a full-stack dev working on AWS Infrastructure by day, and a car enthus
 ## Links
 
 {{< cards >}}
-  {{< card link="<https://github.com/jellayy>" title="Github" icon="github" >}}
-  {{< card link="<https://hub.docker.com/u/jellayy>" title="Docker Hub" icon="terminal" >}}
-  {{< card link="<https://www.linkedin.com/in/austinlynnhuffman/>" title="Linkedin" icon="linkedin" >}}
-  {{< card link="<https://www.youtube.com/@alhuff>_" title="Youtube" icon="youtube" >}}
-  {{< card link="<https://photos.alhuff.com>" title="Photography" icon="camera" >}}
-  {{< card link="<https://www.instagram.com/alhuff_/>" title="Instagram" icon="instagram" >}}
+  {{< card link="https://github.com/jellayy" title="Github" icon="github" >}}
+  {{< card link="https://hub.docker.com/u/jellayy" title="Docker Hub" icon="terminal" >}}
+  {{< card link="https://www.linkedin.com/in/austinlynnhuffman" title="Linkedin" icon="linkedin" >}}
+  {{< card link="https://www.youtube.com/@alhuff_" title="Youtube" icon="youtube" >}}
+  {{< card link="https://photos.alhuff.com" title="Photography" icon="camera" >}}
+  {{< card link="https://www.instagram.com/alhuff_" title="Instagram" icon="instagram" >}}
 {{< /cards >}}
 
 ## Blog Posts
